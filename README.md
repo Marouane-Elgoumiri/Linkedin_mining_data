@@ -12,5 +12,5 @@
 ![pexels-theshantanukr-16564260](https://github.com/Marouane-Elgoumiri/Linkedin_mining_data/assets/96888594/22b84d7a-f406-4744-b325-b6824b6bb343)
 
 ## Statement:
-Analyzing Linkedin Profile data: Connections, Invites & Messages to draw a clear picture of the engagement network
+Analyzing Linkedin Profile data: Connections & Invites to draw a clear picture of the engagement network
 
